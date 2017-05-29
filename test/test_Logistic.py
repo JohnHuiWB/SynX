@@ -122,7 +122,7 @@ def main():
     train_data, labels = load_data_set()
     C = Logistic()
     C.train(train_data, labels, iter = 500)
-
+    
     TP = FP = TN = FN = 0
     # TP：真阳性，是相关项目中被正确识别为相关的。
     # TN：真阴性，是不相关项目中被正确识别为不相关的。

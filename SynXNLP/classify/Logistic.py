@@ -13,8 +13,6 @@ class Logistic(object):
     def __init__(self):
         self._weights = [] # 所求权值
 
-
-
     def train(self, train_data:list, labels:list, iter = 150, empirical_parameter = 0.01):
         """
         采用随机梯度上升法，进行logistic回归

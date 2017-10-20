@@ -2,7 +2,7 @@
 
 依赖 jieba, Numpy, SciPy, sklearn, zhon等库。
 
-# 分类示例
+# 分类示例 
 >>> import SynXNLP as s
 Building prefix dict from the default dictionary ...
 Dumping model to file cache C:\Users\Administrator\AppData\Local\Temp\jieba.cache

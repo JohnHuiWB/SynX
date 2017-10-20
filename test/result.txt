@@ -1,0 +1,791 @@
+Building prefix dict from the default dictionary ...
+Loading model from cache C:\Users\Administrator\AppData\Local\Temp\jieba.cache
+Loading model cost 0.843 seconds.
+Prefix dict has been built succesfully.
+Loading vectorizer model from the path E:\repository\SynX-NLP\SynXNLP\feature\vectorizer.model
+Loading train vec from the path E:\repository\SynX-NLP\SynXNLP\feature\train_vec.cache
+Loading SVM model from the path E:\repository\SynX-NLP\SynXNLP\classify\SVM.model
+NO.  1被正确识别 probability:[  9.99951768e-01   4.82323958e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_1.txt
+NO.  2被正确识别 probability:[  9.99985079e-01   1.49207466e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_10.txt
+NO.  3被正确识别 probability:[  9.99993436e-01   6.56437498e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_100.txt
+NO.  4被正确识别 probability:[  9.99978502e-01   2.14983834e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_101.txt
+NO.  5被正确识别 probability:[  9.99999241e-01   7.59079971e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_102.txt
+NO.  6被正确识别 probability:[  9.99966855e-01   3.31449089e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_103.txt
+NO.  7被正确识别 probability:[  9.99996093e-01   3.90674624e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_104.txt
+NO.  8被正确识别 probability:[  9.99995037e-01   4.96292390e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_105.txt
+NO.  9被正确识别 probability:[  9.99991000e-01   9.00018452e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_106.txt
+NO. 10被正确识别 probability:[  9.99989828e-01   1.01720987e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_107.txt
+NO. 11被正确识别 probability:[  9.99982320e-01   1.76795342e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_108.txt
+NO. 12被正确识别 probability:[  9.99992768e-01   7.23248704e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_109.txt
+NO. 13被正确识别 probability:[  9.99999334e-01   6.65656932e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_11.txt
+NO. 14被正确识别 probability:[  9.99995645e-01   4.35492948e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_110.txt
+NO. 15被正确识别 probability:[  9.99964233e-01   3.57665610e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_111.txt
+NO. 16被正确识别 probability:[  9.99998567e-01   1.43347382e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_112.txt
+NO. 17被正确识别 probability:[  9.99978468e-01   2.15321739e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_113.txt
+NO. 18被正确识别 probability:[  9.99940595e-01   5.94046582e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_114.txt
+NO. 19被正确识别 probability:[  9.99984840e-01   1.51598613e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_115.txt
+NO. 20被正确识别 probability:[  9.99817519e-01   1.82480557e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_116.txt
+NO. 21被正确识别 probability:[  9.99940445e-01   5.95547500e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_117.txt
+NO. 22被正确识别 probability:[  9.99988432e-01   1.15676089e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_118.txt
+NO. 23被正确识别 probability:[  9.99892095e-01   1.07904502e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_119.txt
+NO. 24被正确识别 probability:[  9.99997019e-01   2.98060896e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_12.txt
+NO. 25被正确识别 probability:[  9.99495332e-01   5.04668163e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_120.txt
+NO. 26被正确识别 probability:[  9.99920933e-01   7.90674635e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_121.txt
+NO. 27被正确识别 probability:[  9.99911084e-01   8.89159734e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_122.txt
+NO. 28被正确识别 probability:[ 0.99827545  0.00172455] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_123.txt
+NO. 29被正确识别 probability:[  9.99993707e-01   6.29293871e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_124.txt
+NO. 30被正确识别 probability:[  9.99999710e-01   2.89554310e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_125.txt
+NO. 31被正确识别 probability:[  9.99571082e-01   4.28918108e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_126.txt
+NO. 32被正确识别 probability:[  9.99582710e-01   4.17289896e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_127.txt
+NO. 33被正确识别 probability:[  9.99914156e-01   8.58444516e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_128.txt
+NO. 34被正确识别 probability:[  9.99942408e-01   5.75924430e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_129.txt
+NO. 35被正确识别 probability:[  9.99967011e-01   3.29886687e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_13.txt
+NO. 36被正确识别 probability:[  9.99956504e-01   4.34963272e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_130.txt
+NO. 37被正确识别 probability:[  9.99933373e-01   6.66274352e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_131.txt
+NO. 38被正确识别 probability:[  9.99996890e-01   3.11040207e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_132.txt
+NO. 39被正确识别 probability:[  9.99976194e-01   2.38062580e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_133.txt
+NO. 40被正确识别 probability:[ 0.99111043  0.00888957] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_134.txt
+NO. 41被正确识别 probability:[ 0.99503556  0.00496444] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_135.txt
+NO. 42被正确识别 probability:[ 0.99762888  0.00237112] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_136.txt
+NO. 43被正确识别 probability:[  9.99937382e-01   6.26181178e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_137.txt
+NO. 44被正确识别 probability:[ 0.96916158  0.03083842] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_138.txt
+NO. 45被正确识别 probability:[ 0.9954241  0.0045759] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_139.txt
+NO. 46被正确识别 probability:[  9.99983422e-01   1.65776711e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_14.txt
+NO. 47被正确识别 probability:[  9.99254460e-01   7.45539716e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_140.txt
+NO. 48被错误识别 probability:[  1.45061320e-13   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_141.txt
+NO. 49被正确识别 probability:[  9.99996896e-01   3.10360991e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_15.txt
+NO. 50被正确识别 probability:[  9.99991623e-01   8.37729479e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_16.txt
+NO. 51被正确识别 probability:[  9.99992436e-01   7.56411996e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_17.txt
+NO. 52被正确识别 probability:[  9.99995830e-01   4.17022332e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_18.txt
+NO. 53被正确识别 probability:[  9.99976369e-01   2.36309836e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_19.txt
+NO. 54被正确识别 probability:[ 0.94774598  0.05225402] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_2.txt
+NO. 55被正确识别 probability:[  9.99983876e-01   1.61242649e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_20.txt
+NO. 56被正确识别 probability:[  9.99915833e-01   8.41668816e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_21.txt
+NO. 57被正确识别 probability:[  9.99978490e-01   2.15104718e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_22.txt
+NO. 58被正确识别 probability:[  9.99979986e-01   2.00142392e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_23.txt
+NO. 59被正确识别 probability:[  9.99963389e-01   3.66107286e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_24.txt
+NO. 60被正确识别 probability:[  9.99990717e-01   9.28335604e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_25.txt
+NO. 61被正确识别 probability:[  9.99891650e-01   1.08349738e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_26.txt
+NO. 62被正确识别 probability:[  9.99999041e-01   9.59091360e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_27.txt
+NO. 63被正确识别 probability:[  9.99941641e-01   5.83590422e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_28.txt
+NO. 64被正确识别 probability:[  9.99998124e-01   1.87627414e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_29.txt
+NO. 65被正确识别 probability:[  9.99992692e-01   7.30809410e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_3.txt
+NO. 66被正确识别 probability:[  9.99700911e-01   2.99089048e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_30.txt
+NO. 67被正确识别 probability:[  9.99968633e-01   3.13671079e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_31.txt
+NO. 68被正确识别 probability:[  9.99951472e-01   4.85284952e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_32.txt
+NO. 69被正确识别 probability:[  9.99985659e-01   1.43412224e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_33.txt
+NO. 70被正确识别 probability:[  9.99995433e-01   4.56717167e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_34.txt
+NO. 71被正确识别 probability:[ 0.99845936  0.00154064] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_35.txt
+NO. 72被正确识别 probability:[  9.99982387e-01   1.76132119e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_36.txt
+NO. 73被正确识别 probability:[  9.99852365e-01   1.47634719e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_37.txt
+NO. 74被正确识别 probability:[  9.99985236e-01   1.47637339e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_38.txt
+NO. 75被正确识别 probability:[  9.99999736e-01   2.63731665e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_39.txt
+NO. 76被正确识别 probability:[  9.99998207e-01   1.79277367e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_4.txt
+NO. 77被正确识别 probability:[  9.99720381e-01   2.79618960e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_40.txt
+NO. 78被正确识别 probability:[  9.99898276e-01   1.01724336e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_41.txt
+NO. 79被正确识别 probability:[ 0.99811359  0.00188641] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_42.txt
+NO. 80被正确识别 probability:[  9.99806094e-01   1.93906132e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_43.txt
+NO. 81被正确识别 probability:[  9.99921262e-01   7.87379391e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_44.txt
+NO. 82被正确识别 probability:[  9.99684483e-01   3.15517296e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_45.txt
+NO. 83被正确识别 probability:[  9.99943682e-01   5.63179984e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_46.txt
+NO. 84被正确识别 probability:[ 0.99804344  0.00195656] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_47.txt
+NO. 85被正确识别 probability:[  9.99999069e-01   9.31459073e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_48.txt
+NO. 86被正确识别 probability:[ 0.99714601  0.00285399] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_49.txt
+NO. 87被正确识别 probability:[  9.99994968e-01   5.03160403e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_5.txt
+NO. 88被正确识别 probability:[  9.99968405e-01   3.15950979e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_50.txt
+NO. 89被正确识别 probability:[  9.99943662e-01   5.63380265e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_51.txt
+NO. 90被正确识别 probability:[  9.99928077e-01   7.19227371e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_52.txt
+NO. 91被正确识别 probability:[  9.99978236e-01   2.17643630e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_53.txt
+NO. 92被正确识别 probability:[  9.99988836e-01   1.11643144e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_54.txt
+NO. 93被正确识别 probability:[  9.99699273e-01   3.00726800e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_55.txt
+NO. 94被正确识别 probability:[  9.99988836e-01   1.11643144e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_56.txt
+NO. 95被正确识别 probability:[  9.99699273e-01   3.00726800e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_57.txt
+NO. 96被正确识别 probability:[ 0.97095015  0.02904985] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_58.txt
+NO. 97被正确识别 probability:[  9.99446541e-01   5.53459129e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_59.txt
+NO. 98被正确识别 probability:[  9.99993026e-01   6.97427379e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_6.txt
+NO. 99被正确识别 probability:[  9.99998076e-01   1.92409216e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_60.txt
+NO.100被正确识别 probability:[ 0.9978368  0.0021632] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_61.txt
+NO.101被正确识别 probability:[  9.99323417e-01   6.76582618e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_62.txt
+NO.102被正确识别 probability:[  9.99999900e-01   1.00000010e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_63.txt
+NO.103被正确识别 probability:[  9.99999069e-01   9.31005778e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_64.txt
+NO.104被正确识别 probability:[  9.99999842e-01   1.58445679e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_65.txt
+NO.105被正确识别 probability:[  9.99999232e-01   7.67848621e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_66.txt
+NO.106被正确识别 probability:[  9.99974544e-01   2.54557001e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_67.txt
+NO.107被正确识别 probability:[  9.99999377e-01   6.22768430e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_68.txt
+NO.108被正确识别 probability:[  9.99999336e-01   6.64050977e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_69.txt
+NO.109被正确识别 probability:[  9.99993137e-01   6.86305335e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_7.txt
+NO.110被正确识别 probability:[  9.99993130e-01   6.87046823e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_70.txt
+NO.111被正确识别 probability:[  9.99981763e-01   1.82367846e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_71.txt
+NO.112被正确识别 probability:[  9.99989455e-01   1.05452757e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_72.txt
+NO.113被正确识别 probability:[  9.99993232e-01   6.76753572e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_73.txt
+NO.114被正确识别 probability:[ 0.99746971  0.00253029] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_74.txt
+NO.115被正确识别 probability:[  9.99976087e-01   2.39128993e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_75.txt
+NO.116被正确识别 probability:[  9.99999740e-01   2.59981489e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_76.txt
+NO.117被正确识别 probability:[  9.99994624e-01   5.37646077e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_77.txt
+NO.118被正确识别 probability:[  9.99994624e-01   5.37646077e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_78.txt
+NO.119被正确识别 probability:[  9.99994624e-01   5.37646077e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_79.txt
+NO.120被正确识别 probability:[  9.99998416e-01   1.58364033e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_80.txt
+NO.121被正确识别 probability:[  9.99998416e-01   1.58364033e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_81.txt
+NO.122被正确识别 probability:[  9.99998416e-01   1.58364033e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_82.txt
+NO.123被正确识别 probability:[  9.99982953e-01   1.70471583e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_83.txt
+NO.124被正确识别 probability:[  9.99909214e-01   9.07856837e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_84.txt
+NO.125被正确识别 probability:[  9.99982953e-01   1.70471583e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_85.txt
+NO.126被正确识别 probability:[  9.99991100e-01   8.89987039e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_86.txt
+NO.127被正确识别 probability:[  9.99706089e-01   2.93911488e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_87.txt
+NO.128被正确识别 probability:[  9.99606798e-01   3.93202277e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_88.txt
+NO.129被正确识别 probability:[ 0.99139706  0.00860294] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_89.txt
+NO.130被正确识别 probability:[  9.99944182e-01   5.58180107e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_9.txt
+NO.131被正确识别 probability:[ 0.99573513  0.00426487] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_90.txt
+NO.132被正确识别 probability:[  9.99213666e-01   7.86334042e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_91.txt
+NO.133被正确识别 probability:[  9.99748821e-01   2.51178726e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_92.txt
+NO.134被正确识别 probability:[  9.99298869e-01   7.01131037e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_93.txt
+NO.135被正确识别 probability:[  9.99548371e-01   4.51628600e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_94.txt
+NO.136被正确识别 probability:[ 0.99855145  0.00144855] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_95.txt
+NO.137被正确识别 probability:[ 0.99855145  0.00144855] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_96.txt
+NO.138被正确识别 probability:[  9.99996246e-01   3.75423833e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_97.txt
+NO.139被正确识别 probability:[  9.99996316e-01   3.68411547e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_98.txt
+NO.140被正确识别 probability:[  9.99989525e-01   1.04745539e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\new_test_negative_99.txt
+NO.141被正确识别 probability:[ 0.99076441  0.00923559] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_mohu_1.txt
+NO.142被正确识别 probability:[  9.99993142e-01   6.85832245e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_mohu_10.txt
+NO.143被正确识别 probability:[ 0.98228052  0.01771948] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_mohu_11.txt
+NO.144被正确识别 probability:[  9.99953967e-01   4.60334219e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_mohu_12.txt
+NO.145被正确识别 probability:[  9.99124492e-01   8.75508099e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_mohu_13.txt
+NO.146被正确识别 probability:[  9.99982084e-01   1.79160062e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_mohu_14.txt
+NO.147被正确识别 probability:[  9.99994932e-01   5.06841689e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_mohu_15.txt
+NO.148被正确识别 probability:[  9.99716817e-01   2.83182944e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_mohu_16.txt
+NO.149被正确识别 probability:[ 0.99260242  0.00739758] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_mohu_17.txt
+NO.150被正确识别 probability:[  9.99986142e-01   1.38581820e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_mohu_18.txt
+NO.151被正确识别 probability:[ 0.99076441  0.00923559] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_mohu_19.txt
+NO.152被正确识别 probability:[  9.99986142e-01   1.38581820e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_mohu_2.txt
+NO.153被正确识别 probability:[  9.99915105e-01   8.48951538e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_mohu_20.txt
+NO.154被正确识别 probability:[ 0.99579047  0.00420953] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_mohu_3.txt
+NO.155被正确识别 probability:[  9.99773478e-01   2.26521702e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_mohu_4.txt
+NO.156被正确识别 probability:[ 0.93322657  0.06677343] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_mohu_5.txt
+NO.157被正确识别 probability:[ 0.81590618  0.18409382] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_mohu_6.txt
+NO.158被正确识别 probability:[ 0.9979686  0.0020314] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_mohu_7.txt
+NO.159被正确识别 probability:[ 0.96128834  0.03871166] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_mohu_8.txt
+NO.160被正确识别 probability:[ 0.95512492  0.04487508] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_mohu_9.txt
+NO.161被正确识别 probability:[  9.99940781e-01   5.92187474e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_142.txt
+NO.162被正确识别 probability:[  9.99967647e-01   3.23526166e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_143.txt
+NO.163被正确识别 probability:[  9.99993377e-01   6.62285687e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_144.txt
+NO.164被正确识别 probability:[  9.99987438e-01   1.25622529e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_145.txt
+NO.165被正确识别 probability:[  9.99934409e-01   6.55911249e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_146.txt
+NO.166被正确识别 probability:[  9.99935071e-01   6.49285063e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_147.txt
+NO.167被正确识别 probability:[  9.99993432e-01   6.56794100e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_148.txt
+NO.168被正确识别 probability:[  9.99999216e-01   7.83991403e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_149.txt
+NO.169被正确识别 probability:[  9.99999128e-01   8.72091059e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_150.txt
+NO.170被正确识别 probability:[  9.99999196e-01   8.04466315e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_151.txt
+NO.171被正确识别 probability:[  9.99334872e-01   6.65127738e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_152.txt
+NO.172被正确识别 probability:[  9.99995901e-01   4.09948631e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_153.txt
+NO.173被正确识别 probability:[  9.99997733e-01   2.26666152e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_154.txt
+NO.174被正确识别 probability:[  9.99999732e-01   2.68330547e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_155.txt
+NO.175被正确识别 probability:[  9.99997588e-01   2.41206921e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_156.txt
+NO.176被正确识别 probability:[  9.99999761e-01   2.38616198e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_157.txt
+NO.177被正确识别 probability:[  9.99998269e-01   1.73149990e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_158.txt
+NO.178被正确识别 probability:[  9.99981102e-01   1.88976764e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_159.txt
+NO.179被正确识别 probability:[  9.99973241e-01   2.67585033e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_160.txt
+NO.180被正确识别 probability:[  9.99999598e-01   4.01861646e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_161.txt
+NO.181被正确识别 probability:[  9.99999355e-01   6.44908437e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_162.txt
+NO.182被正确识别 probability:[  9.99995935e-01   4.06464369e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_163.txt
+NO.183被正确识别 probability:[  9.99999568e-01   4.31818366e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_164.txt
+NO.184被正确识别 probability:[  9.99993338e-01   6.66153289e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_165.txt
+NO.185被正确识别 probability:[  9.99996774e-01   3.22634604e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_166.txt
+NO.186被正确识别 probability:[  9.99994111e-01   5.88857174e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_167.txt
+NO.187被正确识别 probability:[  9.99979394e-01   2.06061066e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_168.txt
+NO.188被正确识别 probability:[  9.99953698e-01   4.63019318e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_169.txt
+NO.189被正确识别 probability:[  9.99977381e-01   2.26194993e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_170.txt
+NO.190被正确识别 probability:[  9.99995713e-01   4.28736266e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_171.txt
+NO.191被正确识别 probability:[  9.99972261e-01   2.77387051e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_172.txt
+NO.192被正确识别 probability:[  9.99996556e-01   3.44351269e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_173.txt
+NO.193被正确识别 probability:[  9.99989931e-01   1.00692794e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_174.txt
+NO.194被正确识别 probability:[ 0.99615189  0.00384811] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_175.txt
+NO.195被正确识别 probability:[  9.99999039e-01   9.61312917e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_176.txt
+NO.196被正确识别 probability:[  9.99990027e-01   9.97281377e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_177.txt
+NO.197被正确识别 probability:[  9.99977707e-01   2.22928567e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_178.txt
+NO.198被正确识别 probability:[  9.99997541e-01   2.45875014e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_179.txt
+NO.199被正确识别 probability:[  9.99964297e-01   3.57027364e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_180.txt
+NO.200被正确识别 probability:[  9.99994168e-01   5.83166552e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_181.txt
+NO.201被正确识别 probability:[  9.99994663e-01   5.33700825e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_182.txt
+NO.202被正确识别 probability:[  9.99999456e-01   5.43958878e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_183.txt
+NO.203被正确识别 probability:[  9.99986489e-01   1.35113051e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_184.txt
+NO.204被正确识别 probability:[  9.99997354e-01   2.64598411e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_185.txt
+NO.205被正确识别 probability:[  9.99998659e-01   1.34077481e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_186.txt
+NO.206被正确识别 probability:[  9.99994571e-01   5.42913999e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_187.txt
+NO.207被正确识别 probability:[  9.99987774e-01   1.22264210e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_188.txt
+NO.208被正确识别 probability:[  9.99994316e-01   5.68394047e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_189.txt
+NO.209被正确识别 probability:[  9.99993405e-01   6.59505742e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_190.txt
+NO.210被正确识别 probability:[  9.99919923e-01   8.00767308e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_191.txt
+NO.211被正确识别 probability:[  9.99998532e-01   1.46823704e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_192.txt
+NO.212被正确识别 probability:[  9.99999095e-01   9.04795048e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_193.txt
+NO.213被正确识别 probability:[  9.99998758e-01   1.24179338e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_194.txt
+NO.214被正确识别 probability:[  9.99997311e-01   2.68870392e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_195.txt
+NO.215被正确识别 probability:[  9.99997643e-01   2.35685551e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_196.txt
+NO.216被正确识别 probability:[  9.99988943e-01   1.10574220e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_197.txt
+NO.217被正确识别 probability:[  9.99998716e-01   1.28423924e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_198.txt
+NO.218被正确识别 probability:[  9.99993841e-01   6.15921359e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_199.txt
+NO.219被正确识别 probability:[  9.99994359e-01   5.64107121e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_200.txt
+NO.220被正确识别 probability:[  9.99998121e-01   1.87873734e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_201.txt
+NO.221被正确识别 probability:[  9.99992334e-01   7.66579165e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_202.txt
+NO.222被正确识别 probability:[  9.99999517e-01   4.83252867e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_203.txt
+NO.223被正确识别 probability:[  9.99995353e-01   4.64689825e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_204.txt
+NO.224被正确识别 probability:[  9.99990842e-01   9.15787726e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_205.txt
+NO.225被正确识别 probability:[  9.99993382e-01   6.61753044e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_206.txt
+NO.226被正确识别 probability:[  9.99996473e-01   3.52658546e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_207.txt
+NO.227被正确识别 probability:[  9.99993670e-01   6.32992966e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_208.txt
+NO.228被正确识别 probability:[  9.99993157e-01   6.84290242e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_209.txt
+NO.229被正确识别 probability:[  9.99989221e-01   1.07787187e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_210.txt
+NO.230被正确识别 probability:[  9.99999673e-01   3.27164660e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_211.txt
+NO.231被正确识别 probability:[  9.99955378e-01   4.46222234e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_212.txt
+NO.232被正确识别 probability:[  9.99985621e-01   1.43790726e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_213.txt
+NO.233被正确识别 probability:[  9.99991896e-01   8.10357124e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_214.txt
+NO.234被正确识别 probability:[  9.99998096e-01   1.90433321e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_215.txt
+NO.235被正确识别 probability:[  9.99950730e-01   4.92698169e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_216.txt
+NO.236被正确识别 probability:[  9.99997690e-01   2.30976343e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_217.txt
+NO.237被正确识别 probability:[  9.99999124e-01   8.76493661e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_218.txt
+NO.238被正确识别 probability:[  9.99989282e-01   1.07178218e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_219.txt
+NO.239被正确识别 probability:[  9.99999697e-01   3.03220883e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_220.txt
+NO.240被正确识别 probability:[  9.99990205e-01   9.79511157e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_221.txt
+NO.241被正确识别 probability:[  9.99991685e-01   8.31481754e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_222.txt
+NO.242被正确识别 probability:[  9.99986116e-01   1.38843056e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_223.txt
+NO.243被正确识别 probability:[  9.99939532e-01   6.04676964e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_224.txt
+NO.244被正确识别 probability:[  9.99998245e-01   1.75503327e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_225.txt
+NO.245被正确识别 probability:[  9.99996489e-01   3.51133087e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_226.txt
+NO.246被正确识别 probability:[  9.99998627e-01   1.37265379e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_227.txt
+NO.247被正确识别 probability:[  9.99995122e-01   4.87813175e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_228.txt
+NO.248被正确识别 probability:[  9.99990460e-01   9.53987669e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_229.txt
+NO.249被正确识别 probability:[  9.99994517e-01   5.48274989e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_230.txt
+NO.250被正确识别 probability:[  9.99998802e-01   1.19829607e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_231.txt
+NO.251被正确识别 probability:[  9.99989959e-01   1.00414870e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_232.txt
+NO.252被正确识别 probability:[ 0.81614566  0.18385434] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_233.txt
+NO.253被正确识别 probability:[  9.99867271e-01   1.32728653e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_234.txt
+NO.254被正确识别 probability:[  9.99993260e-01   6.73998029e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_235.txt
+NO.255被正确识别 probability:[  9.99986281e-01   1.37190973e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_236.txt
+NO.256被正确识别 probability:[  9.99997482e-01   2.51810531e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_237.txt
+NO.257被正确识别 probability:[  9.99961249e-01   3.87513455e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_238.txt
+NO.258被正确识别 probability:[  9.99998702e-01   1.29815126e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_239.txt
+NO.259被正确识别 probability:[  9.99991576e-01   8.42387564e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_240.txt
+NO.260被正确识别 probability:[  9.99996473e-01   3.52665853e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_241.txt
+NO.261被正确识别 probability:[  9.99998687e-01   1.31259441e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_242.txt
+NO.262被正确识别 probability:[  9.99939533e-01   6.04668648e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_243.txt
+NO.263被正确识别 probability:[  9.99998883e-01   1.11701454e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_244.txt
+NO.264被正确识别 probability:[  9.99988589e-01   1.14107594e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_245.txt
+NO.265被正确识别 probability:[  9.99998775e-01   1.22483823e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_246.txt
+NO.266被正确识别 probability:[  9.99999079e-01   9.21418596e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_247.txt
+NO.267被正确识别 probability:[  9.99983545e-01   1.64549250e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_248.txt
+NO.268被正确识别 probability:[  9.99999488e-01   5.12109910e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_249.txt
+NO.269被正确识别 probability:[  9.99985494e-01   1.45058844e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_250.txt
+NO.270被正确识别 probability:[  9.99998459e-01   1.54059376e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_251.txt
+NO.271被正确识别 probability:[  9.99999535e-01   4.65329133e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_252.txt
+NO.272被正确识别 probability:[  9.99998122e-01   1.87834338e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_253.txt
+NO.273被正确识别 probability:[  9.99996547e-01   3.45252329e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_254.txt
+NO.274被正确识别 probability:[  9.99996340e-01   3.66034122e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_255.txt
+NO.275被正确识别 probability:[  9.99997959e-01   2.04117310e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_256.txt
+NO.276被正确识别 probability:[  9.99996443e-01   3.55719311e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_257.txt
+NO.277被正确识别 probability:[  9.99994214e-01   5.78614009e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_258.txt
+NO.278被正确识别 probability:[  9.99986248e-01   1.37524242e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_259.txt
+NO.279被正确识别 probability:[  9.99987039e-01   1.29612291e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_260.txt
+NO.280被正确识别 probability:[  9.99909854e-01   9.01458146e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_261.txt
+NO.281被正确识别 probability:[  9.99988912e-01   1.10883657e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_262.txt
+NO.282被正确识别 probability:[  9.99993294e-01   6.70591235e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_263.txt
+NO.283被正确识别 probability:[  9.99974448e-01   2.55516214e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_264.txt
+NO.284被正确识别 probability:[  9.99994576e-01   5.42438089e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_265.txt
+NO.285被正确识别 probability:[  9.99999893e-01   1.07064442e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_266.txt
+NO.286被正确识别 probability:[  9.99997344e-01   2.65624060e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_267.txt
+NO.287被正确识别 probability:[  9.99993077e-01   6.92280817e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_268.txt
+NO.288被正确识别 probability:[  9.99996354e-01   3.64552935e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_269.txt
+NO.289被正确识别 probability:[  9.99998054e-01   1.94614475e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_270.txt
+NO.290被正确识别 probability:[  9.99999271e-01   7.28793338e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_271.txt
+NO.291被正确识别 probability:[  9.99999029e-01   9.71417812e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_272.txt
+NO.292被正确识别 probability:[  9.99985148e-01   1.48519437e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_273.txt
+NO.293被正确识别 probability:[  9.99934485e-01   6.55147058e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_274.txt
+NO.294被正确识别 probability:[  9.99995068e-01   4.93195766e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_275.txt
+NO.295被正确识别 probability:[  9.99998313e-01   1.68714475e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_276.txt
+NO.296被正确识别 probability:[  9.99998603e-01   1.39705182e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_277.txt
+NO.297被正确识别 probability:[  9.99999810e-01   1.89672066e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_278.txt
+NO.298被正确识别 probability:[  9.99992544e-01   7.45629168e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_279.txt
+NO.299被正确识别 probability:[  9.99982754e-01   1.72458235e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_280.txt
+NO.300被正确识别 probability:[  9.99989205e-01   1.07945190e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_281.txt
+NO.301被正确识别 probability:[  9.99993238e-01   6.76156161e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_282.txt
+NO.302被正确识别 probability:[  9.99998931e-01   1.06914256e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_283.txt
+NO.303被正确识别 probability:[  9.99995933e-01   4.06655884e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_284.txt
+NO.304被正确识别 probability:[  9.99999344e-01   6.56468118e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_285.txt
+NO.305被正确识别 probability:[  9.99998335e-01   1.66513177e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_286.txt
+NO.306被正确识别 probability:[  9.99999479e-01   5.21068555e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_287.txt
+NO.307被正确识别 probability:[  9.99999323e-01   6.77036015e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_288.txt
+NO.308被正确识别 probability:[  9.99990238e-01   9.76196472e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_289.txt
+NO.309被正确识别 probability:[  9.99989353e-01   1.06473894e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_290.txt
+NO.310被正确识别 probability:[  9.99997333e-01   2.66710358e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_291.txt
+NO.311被正确识别 probability:[  9.99998760e-01   1.23992242e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_292.txt
+NO.312被正确识别 probability:[  9.99994671e-01   5.32870353e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_293.txt
+NO.313被正确识别 probability:[  9.99991770e-01   8.23002025e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_294.txt
+NO.314被正确识别 probability:[  9.99998207e-01   1.79336615e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_295.txt
+NO.315被正确识别 probability:[  9.99988185e-01   1.18152610e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_296.txt
+NO.316被正确识别 probability:[  9.99993691e-01   6.30935109e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_297.txt
+NO.317被正确识别 probability:[  9.99992701e-01   7.29927531e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_298.txt
+NO.318被正确识别 probability:[  9.99999570e-01   4.30060758e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_299.txt
+NO.319被正确识别 probability:[  9.99996802e-01   3.19799160e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_300.txt
+NO.320被正确识别 probability:[  9.99991927e-01   8.07253278e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_301.txt
+NO.321被正确识别 probability:[  9.99999326e-01   6.74095582e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_302.txt
+NO.322被正确识别 probability:[  9.99996685e-01   3.31489857e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_303.txt
+NO.323被正确识别 probability:[  9.99997566e-01   2.43388482e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_304.txt
+NO.324被正确识别 probability:[  9.99998436e-01   1.56393531e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_305.txt
+NO.325被正确识别 probability:[  9.99999543e-01   4.56983667e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_306.txt
+NO.326被正确识别 probability:[  9.99989810e-01   1.01898997e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_307.txt
+NO.327被正确识别 probability:[  9.99966421e-01   3.35786423e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_308.txt
+NO.328被正确识别 probability:[  9.99976331e-01   2.36688980e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_309.txt
+NO.329被正确识别 probability:[  9.99991683e-01   8.31700181e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_310.txt
+NO.330被正确识别 probability:[  9.99979147e-01   2.08526954e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_311.txt
+NO.331被正确识别 probability:[  9.99994022e-01   5.97763017e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_312.txt
+NO.332被正确识别 probability:[  9.99995395e-01   4.60508858e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_313.txt
+NO.333被正确识别 probability:[  9.99983249e-01   1.67509093e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_314.txt
+NO.334被正确识别 probability:[  9.99994464e-01   5.53582562e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_315.txt
+NO.335被正确识别 probability:[  9.99998530e-01   1.46959266e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_316.txt
+NO.336被正确识别 probability:[  9.99987712e-01   1.22883747e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_317.txt
+NO.337被正确识别 probability:[  9.99983731e-01   1.62693434e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_318.txt
+NO.338被正确识别 probability:[  9.99998613e-01   1.38710187e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_319.txt
+NO.339被正确识别 probability:[  9.99983257e-01   1.67427494e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_320.txt
+NO.340被正确识别 probability:[  9.99999422e-01   5.78343928e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_321.txt
+NO.341被正确识别 probability:[  9.99998830e-01   1.17046313e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_322.txt
+NO.342被正确识别 probability:[  9.99999251e-01   7.49232368e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_323.txt
+NO.343被正确识别 probability:[  9.99996791e-01   3.20925249e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_324.txt
+NO.344被正确识别 probability:[  9.99988469e-01   1.15306386e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_325.txt
+NO.345被正确识别 probability:[  9.99983287e-01   1.67132887e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_326.txt
+NO.346被正确识别 probability:[  9.99984447e-01   1.55529898e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_327.txt
+NO.347被正确识别 probability:[  9.99998850e-01   1.15049602e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_328.txt
+NO.348被正确识别 probability:[  9.99983352e-01   1.66478366e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_329.txt
+NO.349被正确识别 probability:[  9.99987097e-01   1.29033550e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_330.txt
+NO.350被正确识别 probability:[  9.99996907e-01   3.09313252e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_331.txt
+NO.351被正确识别 probability:[  9.99997147e-01   2.85305835e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_332.txt
+NO.352被正确识别 probability:[  9.99949921e-01   5.00794692e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_333.txt
+NO.353被正确识别 probability:[ 0.99233309  0.00766691] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_334.txt
+NO.354被正确识别 probability:[  9.99992764e-01   7.23577515e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_335.txt
+NO.355被正确识别 probability:[  9.99937102e-01   6.28984697e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_336.txt
+NO.356被正确识别 probability:[  9.99992769e-01   7.23053594e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_337.txt
+NO.357被正确识别 probability:[  9.99999126e-01   8.73745607e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_338.txt
+NO.358被正确识别 probability:[  9.99984007e-01   1.59934612e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_339.txt
+NO.359被正确识别 probability:[  9.99999820e-01   1.79993314e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_340.txt
+NO.360被正确识别 probability:[  9.99984151e-01   1.58486198e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_341.txt
+NO.361被正确识别 probability:[  9.99992925e-01   7.07499264e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_342.txt
+NO.362被正确识别 probability:[  9.99982252e-01   1.77484651e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_343.txt
+NO.363被正确识别 probability:[  9.99996175e-01   3.82450917e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_344.txt
+NO.364被正确识别 probability:[  9.99994779e-01   5.22066001e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_345.txt
+NO.365被正确识别 probability:[  9.99998742e-01   1.25751301e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_346.txt
+NO.366被正确识别 probability:[  9.99993238e-01   6.76153300e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_347.txt
+NO.367被正确识别 probability:[  9.99980061e-01   1.99389261e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_348.txt
+NO.368被正确识别 probability:[  9.99993915e-01   6.08464482e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_349.txt
+NO.369被正确识别 probability:[  9.99980148e-01   1.98516295e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_350.txt
+NO.370被正确识别 probability:[  9.99992771e-01   7.22867450e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_351.txt
+NO.371被正确识别 probability:[  9.99995468e-01   4.53239176e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_352.txt
+NO.372被正确识别 probability:[  9.99978668e-01   2.13321473e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_353.txt
+NO.373被正确识别 probability:[  9.99962169e-01   3.78307191e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_354.txt
+NO.374被正确识别 probability:[  9.99997028e-01   2.97169397e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_355.txt
+NO.375被正确识别 probability:[  9.99971576e-01   2.84244771e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_356.txt
+NO.376被正确识别 probability:[  9.99993637e-01   6.36328661e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_357.txt
+NO.377被正确识别 probability:[  9.99999747e-01   2.52921921e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_358.txt
+NO.378被正确识别 probability:[  9.99999806e-01   1.93679939e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_359.txt
+NO.379被正确识别 probability:[  9.99990133e-01   9.86725423e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_360.txt
+NO.380被正确识别 probability:[  9.99997682e-01   2.31766976e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_361.txt
+NO.381被正确识别 probability:[  9.99998953e-01   1.04726803e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_362.txt
+NO.382被正确识别 probability:[  9.99997488e-01   2.51159613e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_363.txt
+NO.383被正确识别 probability:[  9.99979928e-01   2.00718900e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_364.txt
+NO.384被正确识别 probability:[  9.99990471e-01   9.52890903e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_365.txt
+NO.385被正确识别 probability:[  9.99878756e-01   1.21243750e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_366.txt
+NO.386被正确识别 probability:[  9.99992261e-01   7.73889573e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_367.txt
+NO.387被正确识别 probability:[  9.99998636e-01   1.36438454e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_368.txt
+NO.388被正确识别 probability:[  9.99984791e-01   1.52087329e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_369.txt
+NO.389被正确识别 probability:[  9.99999442e-01   5.58033431e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_370.txt
+NO.390被正确识别 probability:[  9.99998149e-01   1.85084804e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_371.txt
+NO.391被正确识别 probability:[  9.99902725e-01   9.72754427e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_372.txt
+NO.392被正确识别 probability:[  9.99930308e-01   6.96922149e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_373.txt
+NO.393被正确识别 probability:[  9.99992723e-01   7.27700426e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_374.txt
+NO.394被正确识别 probability:[  9.99999276e-01   7.23844937e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_375.txt
+NO.395被正确识别 probability:[  9.99996067e-01   3.93319053e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_376.txt
+NO.396被正确识别 probability:[  9.99996682e-01   3.31761812e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_377.txt
+NO.397被正确识别 probability:[  9.99977941e-01   2.20585122e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_378.txt
+NO.398被正确识别 probability:[  9.99929964e-01   7.00361046e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_379.txt
+NO.399被正确识别 probability:[  9.99997602e-01   2.39779720e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_380.txt
+NO.400被正确识别 probability:[  9.99994744e-01   5.25645150e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_381.txt
+NO.401被正确识别 probability:[  9.99999900e-01   1.00000010e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_382.txt
+NO.402被正确识别 probability:[  9.99985901e-01   1.40989637e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_383.txt
+NO.403被正确识别 probability:[  9.99993769e-01   6.23134655e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_384.txt
+NO.404被正确识别 probability:[  9.99975059e-01   2.49406093e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_385.txt
+NO.405被正确识别 probability:[  9.99996637e-01   3.36321370e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_386.txt
+NO.406被正确识别 probability:[  9.99988706e-01   1.12937717e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_387.txt
+NO.407被正确识别 probability:[  9.99997468e-01   2.53228736e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_388.txt
+NO.408被正确识别 probability:[  9.99980392e-01   1.96075905e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_389.txt
+NO.409被正确识别 probability:[  9.99377071e-01   6.22929435e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_390.txt
+NO.410被正确识别 probability:[  9.99997727e-01   2.27252009e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_391.txt
+NO.411被正确识别 probability:[  9.99922718e-01   7.72821520e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_392.txt
+NO.412被正确识别 probability:[  9.99995603e-01   4.39657428e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_393.txt
+NO.413被正确识别 probability:[  9.99980009e-01   1.99908842e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_394.txt
+NO.414被正确识别 probability:[  9.99993950e-01   6.04950323e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_395.txt
+NO.415被正确识别 probability:[  9.99986395e-01   1.36052791e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_396.txt
+NO.416被正确识别 probability:[  9.99994141e-01   5.85891508e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_397.txt
+NO.417被正确识别 probability:[  9.99921193e-01   7.88067630e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_398.txt
+NO.418被正确识别 probability:[  9.99987645e-01   1.23549530e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_399.txt
+NO.419被正确识别 probability:[  9.99984400e-01   1.55995264e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_400.txt
+NO.420被正确识别 probability:[  9.99997122e-01   2.87758920e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_401.txt
+NO.421被正确识别 probability:[  9.99998212e-01   1.78832434e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_402.txt
+NO.422被正确识别 probability:[  9.99990340e-01   9.65961470e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_403.txt
+NO.423被正确识别 probability:[  9.99988231e-01   1.17689339e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_404.txt
+NO.424被正确识别 probability:[  9.99784706e-01   2.15293676e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_405.txt
+NO.425被正确识别 probability:[  9.99983907e-01   1.60934356e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_406.txt
+NO.426被正确识别 probability:[  9.99996665e-01   3.33546034e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_407.txt
+NO.427被正确识别 probability:[  9.99996804e-01   3.19642138e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_408.txt
+NO.428被正确识别 probability:[  9.99993484e-01   6.51595401e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_409.txt
+NO.429被正确识别 probability:[  9.99999437e-01   5.62857165e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_410.txt
+NO.430被正确识别 probability:[  9.99959052e-01   4.09482916e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_411.txt
+NO.431被正确识别 probability:[  9.99982390e-01   1.76097856e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_412.txt
+NO.432被正确识别 probability:[  9.99990679e-01   9.32060035e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_413.txt
+NO.433被正确识别 probability:[  9.99987102e-01   1.28984436e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_414.txt
+NO.434被正确识别 probability:[  9.99975782e-01   2.42183488e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_415.txt
+NO.435被正确识别 probability:[  9.99661792e-01   3.38208016e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_416.txt
+NO.436被正确识别 probability:[  9.99999686e-01   3.13981739e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_417.txt
+NO.437被正确识别 probability:[  9.99996478e-01   3.52151616e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_418.txt
+NO.438被正确识别 probability:[  9.99989221e-01   1.07791154e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_419.txt
+NO.439被正确识别 probability:[  9.99978055e-01   2.19452028e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_420.txt
+NO.440被正确识别 probability:[  9.99999414e-01   5.86048085e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_421.txt
+NO.441被正确识别 probability:[  9.99999007e-01   9.92873979e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_422.txt
+NO.442被正确识别 probability:[  9.99965268e-01   3.47317729e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_423.txt
+NO.443被正确识别 probability:[  9.99997449e-01   2.55075229e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_424.txt
+NO.444被正确识别 probability:[  9.99995297e-01   4.70258077e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_425.txt
+NO.445被正确识别 probability:[ 0.99113525  0.00886475] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_426.txt
+NO.446被正确识别 probability:[  9.99992003e-01   7.99708989e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_427.txt
+NO.447被正确识别 probability:[  9.99998704e-01   1.29569697e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_428.txt
+NO.448被正确识别 probability:[  9.99941185e-01   5.88151211e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_429.txt
+NO.449被正确识别 probability:[  9.99980844e-01   1.91557678e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_430.txt
+NO.450被正确识别 probability:[  9.99998235e-01   1.76547389e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_431.txt
+NO.451被正确识别 probability:[  9.99996740e-01   3.25968392e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_432.txt
+NO.452被正确识别 probability:[  9.99990706e-01   9.29408105e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_433.txt
+NO.453被正确识别 probability:[  9.99986164e-01   1.38361037e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_434.txt
+NO.454被正确识别 probability:[  9.99999295e-01   7.04900444e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_435.txt
+NO.455被正确识别 probability:[  9.99976253e-01   2.37470144e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_436.txt
+NO.456被正确识别 probability:[  9.99983690e-01   1.63103212e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_437.txt
+NO.457被正确识别 probability:[  9.99994226e-01   5.77421068e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_438.txt
+NO.458被正确识别 probability:[  9.99991260e-01   8.74046957e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_439.txt
+NO.459被正确识别 probability:[  9.99991170e-01   8.83020690e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_440.txt
+NO.460被正确识别 probability:[  9.99993361e-01   6.63853333e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_441.txt
+NO.461被正确识别 probability:[  9.99997690e-01   2.31033232e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_442.txt
+NO.462被正确识别 probability:[  9.99971250e-01   2.87500934e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_443.txt
+NO.463被正确识别 probability:[  9.99969220e-01   3.07797698e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_444.txt
+NO.464被正确识别 probability:[  9.99980281e-01   1.97189757e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_445.txt
+NO.465被正确识别 probability:[  9.99995153e-01   4.84712950e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_446.txt
+NO.466被正确识别 probability:[  9.99882605e-01   1.17394750e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_447.txt
+NO.467被正确识别 probability:[  9.99991555e-01   8.44454878e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_448.txt
+NO.468被正确识别 probability:[  9.99996041e-01   3.95942975e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_449.txt
+NO.469被正确识别 probability:[  9.99999703e-01   2.96548574e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_450.txt
+NO.470被正确识别 probability:[  9.99948188e-01   5.18120328e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_451.txt
+NO.471被正确识别 probability:[  9.99994634e-01   5.36557509e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_452.txt
+NO.472被正确识别 probability:[  9.99997571e-01   2.42941052e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_453.txt
+NO.473被正确识别 probability:[  9.99993708e-01   6.29186204e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_454.txt
+NO.474被正确识别 probability:[  9.99150565e-01   8.49435208e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_455.txt
+NO.475被正确识别 probability:[  9.99998682e-01   1.31838075e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_456.txt
+NO.476被正确识别 probability:[  9.99997885e-01   2.11545325e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_457.txt
+NO.477被正确识别 probability:[  9.99997594e-01   2.40597074e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_458.txt
+NO.478被正确识别 probability:[  9.99998074e-01   1.92563653e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_459.txt
+NO.479被正确识别 probability:[  9.99995038e-01   4.96215807e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_460.txt
+NO.480被正确识别 probability:[  9.99875710e-01   1.24289682e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_461.txt
+NO.481被正确识别 probability:[ 0.97160707  0.02839293] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_462.txt
+NO.482被正确识别 probability:[ 0.99870507  0.00129493] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_463.txt
+NO.483被正确识别 probability:[  9.99994745e-01   5.25546882e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_464.txt
+NO.484被正确识别 probability:[  9.99906399e-01   9.36008338e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_465.txt
+NO.485被正确识别 probability:[  9.99993673e-01   6.32725787e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_466.txt
+NO.486被正确识别 probability:[  9.99944567e-01   5.54327387e-05] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_467.txt
+NO.487被正确识别 probability:[ 0.99213432  0.00786568] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_468.txt
+NO.488被正确识别 probability:[  9.99991974e-01   8.02639167e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_469.txt
+NO.489被正确识别 probability:[  9.99998520e-01   1.47993537e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_470.txt
+NO.490被正确识别 probability:[  9.99999269e-01   7.30891532e-07] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_471.txt
+NO.491被正确识别 probability:[  9.99707008e-01   2.92991786e-04] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_472.txt
+NO.492被正确识别 probability:[  9.99995790e-01   4.20987283e-06] filename:E:\repository\SynX-NLP\SynXNLP\data\test\-1\test_negative_473.txt
+NO.493被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_1.txt
+NO.494被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_10.txt
+NO.495被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_100.txt
+NO.496被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_101.txt
+NO.497被正确识别 probability:[  6.18827800e-09   9.99999994e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_102.txt
+NO.498被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_103.txt
+NO.499被正确识别 probability:[ 0.00538966  0.99461034] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_104.txt
+NO.500被正确识别 probability:[  1.18761653e-07   9.99999881e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_105.txt
+NO.501被正确识别 probability:[  2.59277549e-08   9.99999974e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_106.txt
+NO.502被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_107.txt
+NO.503被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_108.txt
+NO.504被错误识别 probability:[ 0.50836011  0.49163989] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_109.txt
+NO.505被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_11.txt
+NO.506被正确识别 probability:[  3.28510710e-12   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_110.txt
+NO.507被正确识别 probability:[  5.68432519e-10   9.99999999e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_111.txt
+NO.508被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_112.txt
+NO.509被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_113.txt
+NO.510被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_114.txt
+NO.511被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_115.txt
+NO.512被正确识别 probability:[ 0.00877738  0.99122262] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_116.txt
+NO.513被正确识别 probability:[ 0.16475697  0.83524303] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_117.txt
+NO.514被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_118.txt
+NO.515被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_119.txt
+NO.516被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_12.txt
+NO.517被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_120.txt
+NO.518被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_121.txt
+NO.519被正确识别 probability:[  8.78975237e-09   9.99999991e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_122.txt
+NO.520被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_123.txt
+NO.521被错误识别 probability:[ 0.68316619  0.31683381] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_124.txt
+NO.522被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_125.txt
+NO.523被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_126.txt
+NO.524被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_127.txt
+NO.525被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_128.txt
+NO.526被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_129.txt
+NO.527被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_13.txt
+NO.528被正确识别 probability:[  5.59420331e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_130.txt
+NO.529被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_131.txt
+NO.530被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_132.txt
+NO.531被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_133.txt
+NO.532被正确识别 probability:[ 0.1767263  0.8232737] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_134.txt
+NO.533被正确识别 probability:[ 0.01142257  0.98857743] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_135.txt
+NO.534被正确识别 probability:[  1.60688465e-10   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_136.txt
+NO.535被正确识别 probability:[  3.28154856e-10   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_137.txt
+NO.536被正确识别 probability:[  8.23481329e-07   9.99999177e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_138.txt
+NO.537被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_139.txt
+NO.538被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_14.txt
+NO.539被正确识别 probability:[  6.37248819e-09   9.99999994e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_140.txt
+NO.540被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_141.txt
+NO.541被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_142.txt
+NO.542被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_143.txt
+NO.543被正确识别 probability:[  1.03642932e-06   9.99998964e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_144.txt
+NO.544被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_145.txt
+NO.545被正确识别 probability:[  1.97766507e-08   9.99999980e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_146.txt
+NO.546被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_147.txt
+NO.547被正确识别 probability:[  2.40918975e-07   9.99999759e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_148.txt
+NO.548被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_149.txt
+NO.549被正确识别 probability:[  2.36747472e-11   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_15.txt
+NO.550被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_150.txt
+NO.551被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_151.txt
+NO.552被正确识别 probability:[  5.90483175e-12   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_152.txt
+NO.553被正确识别 probability:[ 0.0062153  0.9937847] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_153.txt
+NO.554被正确识别 probability:[  3.20541267e-07   9.99999679e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_154.txt
+NO.555被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_155.txt
+NO.556被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_156.txt
+NO.557被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_157.txt
+NO.558被正确识别 probability:[ 0.03189773  0.96810227] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_158.txt
+NO.559被正确识别 probability:[ 0.00785066  0.99214934] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_159.txt
+NO.560被正确识别 probability:[  5.32548737e-06   9.99994675e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_16.txt
+NO.561被正确识别 probability:[ 0.05355877  0.94644123] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_160.txt
+NO.562被正确识别 probability:[ 0.00452006  0.99547994] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_161.txt
+NO.563被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_162.txt
+NO.564被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_163.txt
+NO.565被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_164.txt
+NO.566被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_165.txt
+NO.567被正确识别 probability:[  2.60109061e-07   9.99999740e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_166.txt
+NO.568被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_167.txt
+NO.569被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_168.txt
+NO.570被正确识别 probability:[  6.61330304e-09   9.99999993e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_169.txt
+NO.571被正确识别 probability:[ 0.02731186  0.97268814] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_17.txt
+NO.572被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_170.txt
+NO.573被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_171.txt
+NO.574被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_172.txt
+NO.575被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_173.txt
+NO.576被正确识别 probability:[ 0.00394468  0.99605532] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_174.txt
+NO.577被正确识别 probability:[  2.17074377e-08   9.99999978e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_175.txt
+NO.578被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_176.txt
+NO.579被正确识别 probability:[  6.03388315e-13   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_177.txt
+NO.580被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_178.txt
+NO.581被正确识别 probability:[  1.65929242e-08   9.99999983e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_179.txt
+NO.582被正确识别 probability:[  3.58624548e-09   9.99999996e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_18.txt
+NO.583被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_180.txt
+NO.584被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_181.txt
+NO.585被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_182.txt
+NO.586被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_183.txt
+NO.587被错误识别 probability:[ 0.35296808  0.64703192] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_184.txt
+NO.588被正确识别 probability:[  6.61378212e-06   9.99993386e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_185.txt
+NO.589被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_186.txt
+NO.590被正确识别 probability:[  5.18377866e-09   9.99999995e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_187.txt
+NO.591被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_188.txt
+NO.592被正确识别 probability:[  8.99281312e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_189.txt
+NO.593被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_19.txt
+NO.594被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_190.txt
+NO.595被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_191.txt
+NO.596被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_192.txt
+NO.597被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_193.txt
+NO.598被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_194.txt
+NO.599被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_195.txt
+NO.600被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_196.txt
+NO.601被正确识别 probability:[ 0.04317436  0.95682564] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_197.txt
+NO.602被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_198.txt
+NO.603被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_199.txt
+NO.604被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_2.txt
+NO.605被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_20.txt
+NO.606被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_200.txt
+NO.607被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_201.txt
+NO.608被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_202.txt
+NO.609被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_203.txt
+NO.610被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_204.txt
+NO.611被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_205.txt
+NO.612被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_206.txt
+NO.613被正确识别 probability:[  8.68630063e-13   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_207.txt
+NO.614被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_208.txt
+NO.615被正确识别 probability:[  2.00187004e-12   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_209.txt
+NO.616被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_21.txt
+NO.617被正确识别 probability:[  5.24740987e-13   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_210.txt
+NO.618被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_211.txt
+NO.619被正确识别 probability:[  8.34579854e-09   9.99999992e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_212.txt
+NO.620被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_213.txt
+NO.621被正确识别 probability:[  2.95872323e-08   9.99999970e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_214.txt
+NO.622被正确识别 probability:[  8.04802814e-09   9.99999992e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_215.txt
+NO.623被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_216.txt
+NO.624被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_217.txt
+NO.625被正确识别 probability:[  1.83130123e-10   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_218.txt
+NO.626被正确识别 probability:[  2.32995471e-07   9.99999767e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_219.txt
+NO.627被正确识别 probability:[  2.39534627e-08   9.99999976e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_22.txt
+NO.628被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_220.txt
+NO.629被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_221.txt
+NO.630被正确识别 probability:[  5.91100495e-08   9.99999941e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_222.txt
+NO.631被正确识别 probability:[ 0.00681387  0.99318613] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_223.txt
+NO.632被正确识别 probability:[  1.29443319e-06   9.99998706e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_224.txt
+NO.633被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_225.txt
+NO.634被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_226.txt
+NO.635被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_227.txt
+NO.636被正确识别 probability:[  4.59125486e-11   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_228.txt
+NO.637被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_229.txt
+NO.638被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_23.txt
+NO.639被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_230.txt
+NO.640被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_231.txt
+NO.641被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_232.txt
+NO.642被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_233.txt
+NO.643被正确识别 probability:[ 0.01852292  0.98147708] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_234.txt
+NO.644被正确识别 probability:[ 0.07204855  0.92795145] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_235.txt
+NO.645被正确识别 probability:[  3.45969856e-13   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_236.txt
+NO.646被正确识别 probability:[  1.74216894e-09   9.99999998e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_237.txt
+NO.647被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_238.txt
+NO.648被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_239.txt
+NO.649被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_24.txt
+NO.650被正确识别 probability:[ 0.0074229  0.9925771] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_240.txt
+NO.651被正确识别 probability:[  4.70455050e-09   9.99999995e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_241.txt
+NO.652被错误识别 probability:[ 0.85181843  0.14818157] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_242.txt
+NO.653被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_243.txt
+NO.654被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_244.txt
+NO.655被正确识别 probability:[  2.58432369e-13   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_245.txt
+NO.656被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_246.txt
+NO.657被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_247.txt
+NO.658被正确识别 probability:[ 0.00879922  0.99120078] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_248.txt
+NO.659被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_249.txt
+NO.660被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_25.txt
+NO.661被正确识别 probability:[  1.10722523e-13   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_250.txt
+NO.662被正确识别 probability:[  9.88106332e-11   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_251.txt
+NO.663被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_252.txt
+NO.664被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_253.txt
+NO.665被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_254.txt
+NO.666被正确识别 probability:[  9.68596724e-11   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_255.txt
+NO.667被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_256.txt
+NO.668被正确识别 probability:[ 0.00367841  0.99632159] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_257.txt
+NO.669被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_258.txt
+NO.670被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_259.txt
+NO.671被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_26.txt
+NO.672被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_260.txt
+NO.673被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_261.txt
+NO.674被正确识别 probability:[  2.35194314e-09   9.99999998e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_262.txt
+NO.675被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_263.txt
+NO.676被正确识别 probability:[  4.85035572e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_264.txt
+NO.677被正确识别 probability:[ 0.00551307  0.99448693] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_265.txt
+NO.678被正确识别 probability:[  7.83029154e-07   9.99999217e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_266.txt
+NO.679被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_267.txt
+NO.680被正确识别 probability:[  5.82553881e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_268.txt
+NO.681被正确识别 probability:[  9.72012869e-12   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_269.txt
+NO.682被正确识别 probability:[ 0.05067881  0.94932119] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_27.txt
+NO.683被正确识别 probability:[ 0.08408303  0.91591697] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_270.txt
+NO.684被正确识别 probability:[ 0.00297738  0.99702262] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_271.txt
+NO.685被正确识别 probability:[  3.00254143e-08   9.99999970e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_272.txt
+NO.686被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_273.txt
+NO.687被正确识别 probability:[ 0.01882993  0.98117007] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_274.txt
+NO.688被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_275.txt
+NO.689被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_276.txt
+NO.690被正确识别 probability:[  2.23938860e-07   9.99999776e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_277.txt
+NO.691被正确识别 probability:[  1.08536974e-08   9.99999989e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_278.txt
+NO.692被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_279.txt
+NO.693被正确识别 probability:[  2.17764080e-10   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_28.txt
+NO.694被正确识别 probability:[  1.15164695e-13   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_280.txt
+NO.695被正确识别 probability:[  1.34759733e-13   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_281.txt
+NO.696被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_282.txt
+NO.697被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_283.txt
+NO.698被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_284.txt
+NO.699被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_285.txt
+NO.700被正确识别 probability:[  6.87470982e-11   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_29.txt
+NO.701被正确识别 probability:[  1.40226887e-11   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_3.txt
+NO.702被正确识别 probability:[  2.91021321e-11   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_30.txt
+NO.703被错误识别 probability:[ 0.72092608  0.27907392] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_31.txt
+NO.704被正确识别 probability:[  1.72078267e-12   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_32.txt
+NO.705被正确识别 probability:[  4.20640806e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_33.txt
+NO.706被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_34.txt
+NO.707被正确识别 probability:[  3.28658059e-08   9.99999967e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_35.txt
+NO.708被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_36.txt
+NO.709被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_37.txt
+NO.710被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_38.txt
+NO.711被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_39.txt
+NO.712被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_4.txt
+NO.713被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_40.txt
+NO.714被正确识别 probability:[  3.36788396e-06   9.99996632e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_41.txt
+NO.715被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_42.txt
+NO.716被正确识别 probability:[ 0.04837721  0.95162279] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_43.txt
+NO.717被正确识别 probability:[ 0.0049643  0.9950357] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_44.txt
+NO.718被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_45.txt
+NO.719被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_46.txt
+NO.720被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_47.txt
+NO.721被正确识别 probability:[  3.38073704e-13   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_48.txt
+NO.722被正确识别 probability:[  6.85707286e-07   9.99999314e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_49.txt
+NO.723被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_5.txt
+NO.724被正确识别 probability:[  8.92056036e-08   9.99999911e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_50.txt
+NO.725被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_51.txt
+NO.726被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_52.txt
+NO.727被正确识别 probability:[  7.91327893e-11   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_53.txt
+NO.728被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_54.txt
+NO.729被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_55.txt
+NO.730被正确识别 probability:[ 0.00406412  0.99593588] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_56.txt
+NO.731被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_57.txt
+NO.732被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_58.txt
+NO.733被正确识别 probability:[  4.69294756e-08   9.99999953e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_59.txt
+NO.734被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_6.txt
+NO.735被正确识别 probability:[  7.96032558e-08   9.99999920e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_60.txt
+NO.736被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_61.txt
+NO.737被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_62.txt
+NO.738被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_63.txt
+NO.739被正确识别 probability:[ 0.00337759  0.99662241] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_64.txt
+NO.740被正确识别 probability:[ 0.19411567  0.80588433] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_65.txt
+NO.741被正确识别 probability:[  6.07954810e-11   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_66.txt
+NO.742被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_67.txt
+NO.743被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_68.txt
+NO.744被正确识别 probability:[  1.23086137e-08   9.99999988e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_69.txt
+NO.745被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_7.txt
+NO.746被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_70.txt
+NO.747被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_71.txt
+NO.748被正确识别 probability:[  5.51463782e-10   9.99999999e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_72.txt
+NO.749被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_73.txt
+NO.750被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_74.txt
+NO.751被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_75.txt
+NO.752被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_76.txt
+NO.753被正确识别 probability:[  1.34776587e-05   9.99986522e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_77.txt
+NO.754被正确识别 probability:[  4.40799155e-06   9.99995592e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_78.txt
+NO.755被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_79.txt
+NO.756被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_8.txt
+NO.757被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_80.txt
+NO.758被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_81.txt
+NO.759被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_82.txt
+NO.760被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_83.txt
+NO.761被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_84.txt
+NO.762被正确识别 probability:[  1.64133860e-08   9.99999984e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_85.txt
+NO.763被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_86.txt
+NO.764被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_87.txt
+NO.765被正确识别 probability:[ 0.05826674  0.94173326] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_88.txt
+NO.766被正确识别 probability:[  2.23605654e-09   9.99999998e-01] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_89.txt
+NO.767被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_9.txt
+NO.768被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_90.txt
+NO.769被正确识别 probability:[  3.80309680e-11   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_91.txt
+NO.770被正确识别 probability:[  1.92493948e-13   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_93.txt
+NO.771被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_94.txt
+NO.772被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_95.txt
+NO.773被正确识别 probability:[ 0.15134245  0.84865755] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_96.txt
+NO.774被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_97.txt
+NO.775被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_98.txt
+NO.776被正确识别 probability:[  3.00000090e-14   1.00000000e+00] filename:E:\repository\SynX-NLP\SynXNLP\data\test\1\test_positive_99.txt
+TP: 279 FN:   5 TN: 491 FP:   1
+准确率：0.9964285714285714
+召回率：0.9823943661971831
+F-measure：0.9893617021276596
+平均每个预测需要 0.33651128241277123 秒.
+Test completed.
+Finished in 334.89687453813946 s.
+[Finished in 337.9s]

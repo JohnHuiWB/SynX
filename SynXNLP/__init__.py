@@ -9,6 +9,7 @@ Created on 20170911
 from .classify.SVM import SVM_sklearn_SVC
 from .seg.seg import Seg
 from .feature.feature_extraction import Extracter
+from .crawler.Webcrawler import Webcrawler
 
 
 
@@ -18,11 +19,15 @@ class Filter(object):
         self.segmenter = Seg()
         self.extracter = Extracter()
         self.estimator = SVM_sklearn_SVC(self.extracter)
-        # 初始化默认的测试集路径
+        self.wc = Webcrawler()
+        self.filename = ''
 
 
-    def analysis(self, filename):
-        with open(filename, 'r', encoding = 'utf8') as fp:
+    def analysis(self):
+        if self.filename is '':
+            print('Please download a file first.')
+            return -2
+        with open(self.filename, 'r', encoding = 'utf8') as fp:
             test_text = fp.read()
         seg_text = self.segmenter(test_text)
         vec = self.extracter([seg_text])
@@ -31,6 +36,14 @@ class Filter(object):
             return -1
         else:
             return 1
+
+    def get_data(self, url:str):
+        data = self.wc(url)
+        self.filename = 'E:\\repository\\SynX-NLP\\cache.txt'
+        with open(self.filename, 'w', encoding = 'utf8') as fp:
+            fp.writelines(data)
+            
+
 
     def test(self, data_dir):
         """
@@ -92,3 +105,4 @@ F = Filter()
 
 analysis = F.analysis
 test = F.test
+get_data = F.get_data

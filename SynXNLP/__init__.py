@@ -6,6 +6,8 @@ Created on 20170911
 @author: JohnHuiWB
 '''
 
+import os
+
 from .classify.SVM import SVM_sklearn_SVC
 from .seg.seg import Seg
 from .feature.feature_extraction import Extracter
@@ -20,29 +22,61 @@ class Filter(object):
         self.extracter = Extracter()
         self.estimator = SVM_sklearn_SVC(self.extracter)
         self.wc = Webcrawler()
-        self.filename = ''
+        self.filename = 'E:\\repository\\SynX-NLP\\cache.txt'
+        self.text = None
+        self.seg_text = None
+        self.vec = None
+        self.result = None
 
 
     def analysis(self):
-        if self.filename is '':
+        if os.path.exists(self.filename) is False:
             print('Please download a file first.')
             return -2
         with open(self.filename, 'r', encoding = 'utf8') as fp:
-            test_text = fp.read()
-        seg_text = self.segmenter(test_text)
-        vec = self.extracter([seg_text])
-        result = self.estimator(vec)[0]
-        if result[1] < 0.8:
+            self.text = fp.read()
+        self.seg_text = self.segmenter(self.text)
+        self.vec = self.extracter([self.seg_text])
+        self.result = self.estimator(self.vec)[0]
+        if self.result[1] < 0.8:
             return -1
         else:
             return 1
 
     def get_data(self, url:str):
         data = self.wc(url)
-        self.filename = 'E:\\repository\\SynX-NLP\\cache.txt'
         with open(self.filename, 'w', encoding = 'utf8') as fp:
             fp.writelines(data)
-            
+    
+
+    def print_text(self):
+        if self.filename is '':
+            print('Please download a file first.')
+            return -2
+        with open(self.filename, 'r', encoding = 'utf8') as fp:
+            self.text = fp.read()
+        print(self.text)
+
+
+    def print_seg_text(self):
+        if self.seg_text is None:
+            print('Please run \'analysis\' method first.')
+            return -2
+        print(self.seg_text)
+
+
+    def print_vec(self):
+        if self.vec is None:
+            print('Please run \'analysis\' method first.')
+            return -2
+        print(self.vec)
+
+
+    def print_result(self):
+        if self.result is None:
+            print('Please run \'analysis\' method first.')
+            return -2
+        print(self.result)
 
 
     def test(self, data_dir):
@@ -106,3 +140,7 @@ F = Filter()
 analysis = F.analysis
 test = F.test
 get_data = F.get_data
+print_text = F.print_text
+print_seg_text = F.print_seg_text
+print_vec = F.print_vec
+print_result = F.print_result
